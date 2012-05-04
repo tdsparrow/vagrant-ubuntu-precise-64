@@ -16,6 +16,12 @@ Usage
  mkisofs, install macports, then: sudo port install cdrtools
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tdsparrow's notes
+-----------
+
+ - change desktop to server version
+ - change locale to my location(ShangHai)
+
 
 Ben's notes
 -----------
